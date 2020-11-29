@@ -1,16 +1,18 @@
-### Hi there 👋
+# Kyle Caprio
 
-<!--
-**capriok/capriok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+- Software Development enthusiast 
+- Strong believer in web frameworks 
+- Refactoring and Optimization specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[![Gmail Badge](https://img.shields.io/badge/-capriodev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:capriodev@gmail.com "Email%20Directly")
+[![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Caprio-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-caprio "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@kylecaprio_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kylecaprio_ "Follow on Twitter")
+  
+## Activity
+<p align="center">
+  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=capriok&&custom_title=Specialties&hide=CSS,HTML&bg_color=202020&title_color=steelblue&text_color=fff" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=capriok&custom_title=My%20Stats&bg_color=202020&title_color=steelblue&text_color=fff&show_icons=true&icon_color=2787db" />
+</p>
