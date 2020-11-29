@@ -1,5 +1,3 @@
-# Kyle Caprio
-
 ## About
 
 - Software Development enthusiast 
