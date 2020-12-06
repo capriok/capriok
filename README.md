@@ -2,7 +2,7 @@
 
 - Software Development enthusiast 
 - Strong believer in web frameworks 
-- Refactoring and Optimization specialist
+- Refactorization and Optimization specialist
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-capriodev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:capriodev@gmail.com "Email%20Directly")
@@ -11,6 +11,6 @@
   
 ## Activity
 <p align="center">
-  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=capriok&&custom_title=Specialties&hide=CSS,HTML&bg_color=202020&title_color=steelblue&text_color=fff" />
+  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=capriok&&custom_title=Linguistics&hide=CSS,HTML&bg_color=202020&title_color=steelblue&text_color=fff" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=capriok&custom_title=My%20Stats&bg_color=202020&title_color=steelblue&text_color=fff&show_icons=true&icon_color=2787db" />
 </p>
