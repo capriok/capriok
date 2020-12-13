@@ -11,6 +11,7 @@
   
 ## Activity
 <p align="center">
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=capriok&rank=SSS,S,SS,AAA,AA,A,B,C,NKNOWN,SECRET&theme=nord" />
   <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=capriok&&custom_title=Linguistics&hide=CSS,HTML&bg_color=171717&title_color=steelblue&text_color=fff" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=capriok&custom_title=My%20Stats&bg_color=171717&title_color=steelblue&text_color=fff&show_icons=true&icon_color=2787db" />
 </p>
