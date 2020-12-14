@@ -7,7 +7,6 @@
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-capriodev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:capriodev@gmail.com "Email%20Directly")
 [![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Caprio-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-caprio "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@kylecaprio_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kylecaprio_ "Follow on Twitter")
   
 ## Activity
 <p align="center">
