@@ -3,7 +3,7 @@
 
 [![Professional](https://img.shields.io/visual-studio-marketplace/stars/capriok.workpoints?color=0072b1&label=Professional)](https://kylecaprio.dev)
 
-## 💭 About
+## 💭 Insight
 - Software Development enthusiast 
 - Strong believer in web frameworks 
 - Refactorization and Optimization specialist
