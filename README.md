@@ -1,4 +1,4 @@
-## Software Developer.
+## Software Engineer.
 ### Based in Arizona
 
 [![Professional](https://img.shields.io/visual-studio-marketplace/stars/capriok.workpoints?color=0072b1&label=Professional)](https://kylecaprio.dev)
